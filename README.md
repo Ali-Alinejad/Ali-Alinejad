@@ -19,11 +19,13 @@
     - 🎶  Chilling Out and Crafting Code </br>
     - 🧠  Transforming Ideas into Reality</br>
     </br>
-    </br>
-    </br>
 </p>
     
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  
+ 
+
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
@@ -31,6 +33,8 @@
 ![Redux](https://img.shields.io/badge/Redux-316192?logo=Redux&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
   </div>
+  
+  [![](https://raw.githubusercontent.com/ali-alinejad/Xhofe/main/out/github-snake-dark.svg)](https://github.com/Xhofe)
   
   <div align="center" style="margin-top: 30px">
     <h2>GitHub Stats</h2>
