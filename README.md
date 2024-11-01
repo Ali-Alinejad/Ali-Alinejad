@@ -34,7 +34,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
   </div>
   
-  [![](https://raw.githubusercontent.com/ali-alinejad/Xhofe/main/out/github-snake-dark.svg)]
+  ![](https://raw.githubusercontent.com/ali-alinejad/Xhofe/main/out/github-snake-dark.svg)
   
   <div align="center" style="margin-top: 30px">
     <h2>GitHub Stats</h2>
