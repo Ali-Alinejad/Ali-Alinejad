@@ -31,7 +31,6 @@
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?logo=redis&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
 ![Redux](https://img.shields.io/badge/Redux-316192?logo=Redux&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
   </div>
   
   ![](https://raw.githubusercontent.com/ali-alinejad/ali-alinejad/main/out/github-snake-dark.svg)
