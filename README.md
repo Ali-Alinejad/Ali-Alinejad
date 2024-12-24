@@ -64,18 +64,6 @@
 
   <div align="center" style="margin-top: 30px">
     <a href="mailto:alialineejad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/ali-alinejad-1b5827202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="https://twitter.com/yourtwitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  </div>
-</div>
-
-  <div align="center" style="margin-top: 30px">
-    <h2>My Skills</h2>
-    <img src="https://skillicons.dev/icons?i=angular,css,discord,figma,github,git,gitlab,html,js,ts,jquery,nextjs,nodejs,nuxtjs,ps,pr,react,redux,stackoverflow,tailwind,vite,vscode,vue,windows,vercel,unreal,remix,py,cs,blender" />
-  </div>
-
-  <div align="center" style="margin-top: 30px">
-    <a href="mailto:alialineejad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/ali-alinejad-1b5827202/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
 </div>
