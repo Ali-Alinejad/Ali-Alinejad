@@ -24,14 +24,15 @@
       </br>
     </p>
   </div>
-  
-
-
-
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-  ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-  ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
-  ![Python](https://img.shields.io/badge/Python-316192?logo=Python&logoColor=white)
+    <div>
+        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
+        <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
 
   ![](https://raw.githubusercontent.com/Ali-Alinejad/Ali-Alinejad/main/out/github-snake-dark.svg)
 
