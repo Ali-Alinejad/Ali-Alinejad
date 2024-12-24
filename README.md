@@ -32,7 +32,7 @@
 ![Redux](https://img.shields.io/badge/Redux-316192?logo=Redux&logoColor=white)
   </div>
   
-  ![](https://raw.githubusercontent.com/ali-alinejad/ali-alinejad/main/out/github-snake-dark.svg)
+  ![](https://raw.githubusercontent.com/Ali-Alinejad/Ali-Alinejad/main/out/github-snake-dark.svg)
   
   <div align="center" style="margin-top: 30px">
     <h2>GitHub Stats</h2>
