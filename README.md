@@ -30,9 +30,8 @@
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
   ![Nodejs](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
-  ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
   ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql)
-  ![Redux](https://img.shields.io/badge/Redux-316192?logo=Redux&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-316192?logo=Python&logoColor=white)
 
   ![](https://raw.githubusercontent.com/Ali-Alinejad/Ali-Alinejad/main/out/github-snake-dark.svg)
 
