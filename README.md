@@ -25,7 +25,6 @@
     </p>
   </div>
     <div>
-        <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="GitHub" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
@@ -35,7 +34,6 @@
         <img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="GraphQL" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="Redux" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/storybook-icon.svg" alt="fastapi-icon.svg" width="65" height="65" />
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Redux" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Redux" width="65" height="65" />
         <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="Redux" width="65" height="65" />
         
